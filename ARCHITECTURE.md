@@ -18,3 +18,4 @@
 │  WebSocket  │   Room      │   Canvas     │   User      │  History   │
 │   Server    │  Manager    │   State      │  Manager    │  Manager   │
 └─────────────┴─────────────┴──────────────┴─────────────┴────────────┘
+
