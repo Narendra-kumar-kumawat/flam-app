@@ -1,4 +1,5 @@
 Real-Time Collaborative Drawing Canvas
+
 A multi-user drawing application where multiple people can draw simultaneously
 on the same canvas with real-time synchronization.
 Built from scratch using vanilla JavaScript, HTML5 Canvas, and WebSockets.
@@ -11,3 +12,4 @@ npm start
 
 # For development with auto-reload
 npm run dev
+
